@@ -1,6 +1,6 @@
 # What is this?
 
-This is a Java application which demonstrates how can you implement distributed system tracing using
+This is a Java application which demonstrates how you can implement distributed system tracing using
 [Zipkin](https://zipkin.io/) with Jetty and Jersey. In basic set-up spans will be sent to Zipkin
 over http, but there is also a sample function on how to send them over Kafka.
 
